@@ -1,0 +1,12 @@
+.footer{
+    padding: 24px;
+    box-shadow:-2px -4px 6px black;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+    background-color: cornflowerblue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
